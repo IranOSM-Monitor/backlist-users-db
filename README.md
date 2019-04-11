@@ -1,6 +1,6 @@
 <div dir=rtl>
 
-# backlist-users-db
+# blacklist-users-db
 
 | نام کاربر | زمان وارد شدن به لیست | دلیل |
 | ----- | ----- | ----- |
