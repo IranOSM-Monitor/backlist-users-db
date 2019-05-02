@@ -15,5 +15,6 @@
 
 | نام کاربر | شماره بسته‌ی تغییرات | اهمیت تغییرات | میزان تغییرات |  توضیحات |
 | ----- | ----- | ----- | ----- | ----- |
-| [iran map 28](https://www.openstreetmap.org/user/iran%20map%2028) | [69193419](https://www.openstreetmap.org/changeset/69193419) | معمولی | ایجاد: ۲۱۸ تغییر: ۳ حذف: ۱ | - |
-| [iran map 28](https://www.openstreetmap.org/user/iran%20map%2028) | [69193607](https://www.openstreetmap.org/changeset/69193607) | معمولی | ایجاد: ۳۱ تغییر: ۵ حذف: ۴۶ | - |
+| [iran map 28](https://www.openstreetmap.org/user/iran%20map%2028) | [69193419](https://www.openstreetmap.org/changeset/69193419) | معمولی | (ایجاد: ۲۱۸) (تغییر: ۳) (حذف: ۱) | - |
+| [iran map 28](https://www.openstreetmap.org/user/iran%20map%2028) | [69193607](https://www.openstreetmap.org/changeset/69193607) | معمولی | (ایجاد: ۳۱) (تغییر: ۵) (حذف: ۴۶) | - |
+| [Mnfy43](https://www.openstreetmap.org/user/Mnfy43) | [69681377](https://www.openstreetmap.org/changeset/69681377) | معمولی | (ایجاد: ۱۸) (تغییر: ۲۹) (حذف: ۲۶۵) | اقدام به حذف تعدادی ساختمان. بنظر میاد دلیل این حذفیات استفاده از تصاویر ماهواره‌ای قدیمی بوده. درحالی که در تصاویر جدید این ساختمان‌ها وجود دارند. |
